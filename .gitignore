@@ -1,0 +1,4 @@
+*.ipynb
+.idea/
+region_name.csv
+regions_etalon.yaml
