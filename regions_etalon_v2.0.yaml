@@ -14,6 +14,7 @@ dict:
     name_emiss: Российская Федерация
     name_datawrapper: Россия
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -34,6 +35,7 @@ dict:
     name_emiss: Центральный федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -54,6 +56,7 @@ dict:
     name_emiss: Белгородская область
     name_datawrapper: Белгородская область
     name_datawrapper_square: Белгородская область
+    name_datawrapper_short: БЕЛ
     name_tableau: Belgorod
     alternative_names: []
     okato: '00000000'
@@ -74,6 +77,7 @@ dict:
     name_emiss: Брянская область
     name_datawrapper: Брянская область
     name_datawrapper_square: Брянская область
+    name_datawrapper_short: БРЯ
     name_tableau: Bryansk
     alternative_names: []
     okato: '15000000'
@@ -94,6 +98,7 @@ dict:
     name_emiss: Владимирская область
     name_datawrapper: Владимирская область
     name_datawrapper_square: Владимирская область
+    name_datawrapper_short: ВЛА
     name_tableau: Vladimir
     alternative_names: []
     okato: '17000000'
@@ -114,6 +119,7 @@ dict:
     name_emiss: Воронежская область
     name_datawrapper: Воронежская область
     name_datawrapper_square: Воронежская область
+    name_datawrapper_short: ВОР
     name_tableau: Voronezh
     alternative_names: []
     okato: '20000000'
@@ -134,6 +140,7 @@ dict:
     name_emiss: Ивановская область
     name_datawrapper: Ивановская область
     name_datawrapper_square: Ивановская область
+    name_datawrapper_short: ИВА
     name_tableau: Ivanovo
     alternative_names: []
     okato: '24000000'
@@ -154,6 +161,7 @@ dict:
     name_emiss: Калужская область
     name_datawrapper: Калужская область
     name_datawrapper_square: Калужская область
+    name_datawrapper_short: КАЛУ
     name_tableau: Kaluga
     alternative_names: []
     okato: '29000000'
@@ -174,6 +182,7 @@ dict:
     name_emiss: Костромская область
     name_datawrapper: Костромская область
     name_datawrapper_square: Костромская область
+    name_datawrapper_short: КОС
     name_tableau: Kostroma
     alternative_names: []
     okato: '34000000'
@@ -194,6 +203,7 @@ dict:
     name_emiss: Курская область
     name_datawrapper: Курская область
     name_datawrapper_square: Курская область
+    name_datawrapper_short: КУРСК
     name_tableau: Kursk
     alternative_names: []
     okato: '38000000'
@@ -214,6 +224,7 @@ dict:
     name_emiss: Липецкая область
     name_datawrapper: Липецкая область
     name_datawrapper_square: Липецкая область
+    name_datawrapper_short: ЛИП
     name_tableau: Lipetsk
     alternative_names: []
     okato: '42000000'
@@ -234,6 +245,7 @@ dict:
     name_emiss: Московская область
     name_datawrapper: Московская область
     name_datawrapper_square: Московская область
+    name_datawrapper_short: МОС
     name_tableau: Moskovsskaya
     alternative_names: []
     okato: '46000000'
@@ -254,6 +266,7 @@ dict:
     name_emiss: Орловская область
     name_datawrapper: Орловская область
     name_datawrapper_square: Орловская область
+    name_datawrapper_short: ОРЁЛ
     name_tableau: Orlovskaya
     alternative_names: []
     okato: '54000000'
@@ -274,6 +287,7 @@ dict:
     name_emiss: Рязанская область
     name_datawrapper: Рязанская область
     name_datawrapper_square: Рязанская область
+    name_datawrapper_short: РЯЗ
     name_tableau: Ryazan
     alternative_names: []
     okato: '61000000'
@@ -294,6 +308,7 @@ dict:
     name_emiss: Смоленская область
     name_datawrapper: Смоленская область
     name_datawrapper_square: Смоленская область
+    name_datawrapper_short: СМОЛ
     name_tableau: Smolensk
     alternative_names: []
     okato: '66000000'
@@ -314,6 +329,7 @@ dict:
     name_emiss: Тамбовская область
     name_datawrapper: Тамбовская область
     name_datawrapper_square: Тамбовская область
+    name_datawrapper_short: ТАМ
     name_tableau: Tambov
     alternative_names: []
     okato: '68000000'
@@ -334,6 +350,7 @@ dict:
     name_emiss: Тверская область
     name_datawrapper: Тверская область
     name_datawrapper_square: Тверская область
+    name_datawrapper_short: ТВЕР
     name_tableau: Tver
     alternative_names: []
     okato: '28000000'
@@ -354,6 +371,7 @@ dict:
     name_emiss: Тульская область
     name_datawrapper: Тульская область
     name_datawrapper_square: Тульская область
+    name_datawrapper_short: ТУЛ
     name_tableau: Tula
     alternative_names: []
     okato: '70000000'
@@ -374,6 +392,7 @@ dict:
     name_emiss: Ярославская область
     name_datawrapper: Ярославская область
     name_datawrapper_square: Ярославская область
+    name_datawrapper_short: ЯРО
     name_tableau: Yaroslavl
     alternative_names: []
     okato: '78000000'
@@ -394,6 +413,7 @@ dict:
     name_emiss: Город Москва столица Российской Федерации город федерального значения
     name_datawrapper: Москва
     name_datawrapper_square: Москва
+    name_datawrapper_short: МСК
     name_tableau: Moskva (city)
     alternative_names:
     - Москва
@@ -416,6 +436,7 @@ dict:
     name_emiss: Северо-Западный федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names:
     - Северо-Западный
@@ -437,6 +458,7 @@ dict:
     name_emiss: Республика Карелия
     name_datawrapper: Республика Карелия
     name_datawrapper_square: Карелия
+    name_datawrapper_short: КАР
     name_tableau: Karelia
     alternative_names: []
     okato: '86000000'
@@ -457,6 +479,7 @@ dict:
     name_emiss: Республика Коми
     name_datawrapper: Республика Коми
     name_datawrapper_square: Коми
+    name_datawrapper_short: КОМИ
     name_tableau: Komi
     alternative_names: []
     okato: '87000000'
@@ -477,6 +500,7 @@ dict:
     name_emiss: Архангельская область
     name_datawrapper: Архангельская область
     name_datawrapper_square: Архангельская область
+    name_datawrapper_short: АРХ
     name_tableau: Arkhangel'sk
     alternative_names: []
     okato: '11000000'
@@ -497,6 +521,7 @@ dict:
     name_emiss: Ненецкий автономный округ (Архангельская область)
     name_datawrapper: Ненецкий автономный округ
     name_datawrapper_square: Ненецкий АО
+    name_datawrapper_short: НЕН
     name_tableau: Nenets
     alternative_names: []
     okato: '11100000'
@@ -517,10 +542,11 @@ dict:
     name_emiss: Архангельская область без автономного округа
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: АРХ
     name_tableau: None
     alternative_names: []
     okato: '11200000'
-    oktmo: '11800000'
+    oktmo: '11700000'
     fns_code: None
     iso_code: None
     level: регион
@@ -537,6 +563,7 @@ dict:
     name_emiss: Вологодская область
     name_datawrapper: Вологодская область
     name_datawrapper_square: Вологодская область
+    name_datawrapper_short: ВОЛО
     name_tableau: Vologda
     alternative_names: []
     okato: '19000000'
@@ -557,6 +584,7 @@ dict:
     name_emiss: Калининградская область
     name_datawrapper: Калининградская область
     name_datawrapper_square: Калининградская область
+    name_datawrapper_short: КАЛИ
     name_tableau: Kaliningrad
     alternative_names:
     - Калинингpадская область
@@ -578,6 +606,7 @@ dict:
     name_emiss: Ленинградская область
     name_datawrapper: Ленинградская область
     name_datawrapper_square: Ленинградская область
+    name_datawrapper_short: ЛЕН
     name_tableau: Leningrad Oblast
     alternative_names: []
     okato: '41000000'
@@ -598,6 +627,7 @@ dict:
     name_emiss: Мурманская область
     name_datawrapper: Мурманская область
     name_datawrapper_square: Мурманская область
+    name_datawrapper_short: МУР
     name_tableau: Murmansk
     alternative_names: []
     okato: '47000000'
@@ -618,6 +648,7 @@ dict:
     name_emiss: Новгородская область
     name_datawrapper: Новгородская область
     name_datawrapper_square: Новгородская область
+    name_datawrapper_short: НОВГ
     name_tableau: Novgorod
     alternative_names: []
     okato: '49000000'
@@ -638,6 +669,7 @@ dict:
     name_emiss: Псковская область
     name_datawrapper: Псковская область
     name_datawrapper_square: Псковская область
+    name_datawrapper_short: ПСК
     name_tableau: Pskov
     alternative_names: []
     okato: '58000000'
@@ -658,6 +690,7 @@ dict:
     name_emiss: Город Санкт-Петербург город федерального значения
     name_datawrapper: Санкт-Петербург
     name_datawrapper_square: Санкт-Петербург
+    name_datawrapper_short: СПБ
     name_tableau: Sankt-Peterburg
     alternative_names:
     - г. Санкт Петербург
@@ -680,6 +713,7 @@ dict:
     name_emiss: Южный федеральный округ(по2009год)
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -700,6 +734,7 @@ dict:
     name_emiss: Республика Адыгея (Адыгея)
     name_datawrapper: Республика Адыгея
     name_datawrapper_square: Адыгея
+    name_datawrapper_short: АДЫГ
     name_tableau: Adygey
     alternative_names: []
     okato: '79000000'
@@ -720,6 +755,7 @@ dict:
     name_emiss: Республика  Калмыкия
     name_datawrapper: Республика Калмыкия
     name_datawrapper_square: Калмыкия
+    name_datawrapper_short: КАЛМ
     name_tableau: Kalmyk
     alternative_names: []
     okato: '85000000'
@@ -740,6 +776,7 @@ dict:
     name_emiss: Республика Крым
     name_datawrapper: Республика Крым
     name_datawrapper_square: Крым
+    name_datawrapper_short: КРЫМ
     name_tableau: Autonomna respublica Krym
     alternative_names: []
     okato: '35000000'
@@ -760,6 +797,7 @@ dict:
     name_emiss: Краснодарский край
     name_datawrapper: Краснодарский край
     name_datawrapper_square: Краснодарский край
+    name_datawrapper_short: КРДР
     name_tableau: Krasnodar
     alternative_names: []
     okato: '03000000'
@@ -780,6 +818,7 @@ dict:
     name_emiss: Астраханская область
     name_datawrapper: Астраханская область
     name_datawrapper_square: Астраханская область
+    name_datawrapper_short: АСТ
     name_tableau: Astrakhan'
     alternative_names: []
     okato: '12000000'
@@ -800,6 +839,7 @@ dict:
     name_emiss: Волгоградская область
     name_datawrapper: Волгоградская область
     name_datawrapper_square: Волгоградская область
+    name_datawrapper_short: ВОЛГ
     name_tableau: Volgograd
     alternative_names: []
     okato: '18000000'
@@ -820,6 +860,7 @@ dict:
     name_emiss: Ростовская область
     name_datawrapper: Ростовская область
     name_datawrapper_square: Ростовская область
+    name_datawrapper_short: РОС
     name_tableau: Rostov
     alternative_names: []
     okato: '60000000'
@@ -840,6 +881,7 @@ dict:
     name_emiss: Город федерального значения Севастополь
     name_datawrapper: Севастополь
     name_datawrapper_square: Севастополь
+    name_datawrapper_short: СЕВ
     name_tableau: Misto Sevastopol
     alternative_names: []
     okato: '67000000'
@@ -860,6 +902,7 @@ dict:
     name_emiss: Северо-Кавказский федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -880,6 +923,7 @@ dict:
     name_emiss: Республика  Дагестан
     name_datawrapper: Республика Дагестан
     name_datawrapper_square: Дагестан
+    name_datawrapper_short: ДАГ
     name_tableau: Dagestan
     alternative_names: []
     okato: '82000000'
@@ -900,6 +944,7 @@ dict:
     name_emiss: Республика  Ингушетия
     name_datawrapper: Республика Ингушетия
     name_datawrapper_square: Ингушетия
+    name_datawrapper_short: ИНГ
     name_tableau: Ingushetia
     alternative_names: []
     okato: '26000000'
@@ -920,6 +965,7 @@ dict:
     name_emiss: Кабардино-Балкарская Республика
     name_datawrapper: Кабардино-Балкарская республика
     name_datawrapper_square: Кабардино-Балкария
+    name_datawrapper_short: КАБ
     name_tableau: Kabardin-Balkar
     alternative_names: []
     okato: '83000000'
@@ -940,6 +986,7 @@ dict:
     name_emiss: Карачаево-Черкесская Республика
     name_datawrapper: Карачаево-Черкесская республика
     name_datawrapper_square: Карачаево-Черкесия
+    name_datawrapper_short: КАРА
     name_tableau: Karachay-Cherkess
     alternative_names: []
     okato: '91000000'
@@ -960,6 +1007,7 @@ dict:
     name_emiss: Республика Северная Осетия-Алания
     name_datawrapper: Республика Северная Осетия — Алания
     name_datawrapper_square: Северная Осетия — Алания
+    name_datawrapper_short: ОСЕТ
     name_tableau: Respublika Severnaya Osetiya-Alaniya
     alternative_names:
     - Республика Северная Осетия - Алания
@@ -983,6 +1031,7 @@ dict:
     name_emiss: Чеченская Республика
     name_datawrapper: Чеченская республика
     name_datawrapper_square: Чечня
+    name_datawrapper_short: ЧЕЧ
     name_tableau: Chechnya
     alternative_names: []
     okato: '96000000'
@@ -1003,6 +1052,7 @@ dict:
     name_emiss: Ставропольский край
     name_datawrapper: Ставропольский край
     name_datawrapper_square: Ставропольский край
+    name_datawrapper_short: СТАВ
     name_tableau: Stavropol
     alternative_names:
     - Ставропольский край.
@@ -1024,6 +1074,7 @@ dict:
     name_emiss: Приволжский федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -1044,6 +1095,7 @@ dict:
     name_emiss: Республика Башкортостан
     name_datawrapper: Республика Башкортостан
     name_datawrapper_square: Башкортостан
+    name_datawrapper_short: БШК
     name_tableau: Bashkortostan
     alternative_names: []
     okato: '80000000'
@@ -1064,6 +1116,7 @@ dict:
     name_emiss: Республика Марий Эл
     name_datawrapper: Республика Марий Эл
     name_datawrapper_square: Марий Эл
+    name_datawrapper_short: МАРИ
     name_tableau: Mariy-El
     alternative_names: []
     okato: '88000000'
@@ -1084,6 +1137,7 @@ dict:
     name_emiss: Республика Мордовия
     name_datawrapper: Республика Мордовия
     name_datawrapper_square: Мордовия
+    name_datawrapper_short: МОР
     name_tableau: Mordovia
     alternative_names: []
     okato: '89000000'
@@ -1104,6 +1158,7 @@ dict:
     name_emiss: Республика Татарстан (Татарстан)
     name_datawrapper: Республика Татарстан
     name_datawrapper_square: Татарстан
+    name_datawrapper_short: ТАТ
     name_tableau: Tatarstan
     alternative_names: []
     okato: '92000000'
@@ -1124,6 +1179,7 @@ dict:
     name_emiss: Удмуртская Республика
     name_datawrapper: Удмуртская республика
     name_datawrapper_square: Удмуртия
+    name_datawrapper_short: УДМ
     name_tableau: Udmurt
     alternative_names: []
     okato: '94000000'
@@ -1144,6 +1200,7 @@ dict:
     name_emiss: Чувашская Республика - Чувашия
     name_datawrapper: Чувашская республика
     name_datawrapper_square: Чувашия
+    name_datawrapper_short: ЧУВ
     name_tableau: Chuvash
     alternative_names: []
     okato: '97000000'
@@ -1164,6 +1221,7 @@ dict:
     name_emiss: Пермский край
     name_datawrapper: Пермский край
     name_datawrapper_square: Пермский край
+    name_datawrapper_short: ПЕР
     name_tableau: Perm
     alternative_names: []
     okato: '57000000'
@@ -1184,6 +1242,7 @@ dict:
     name_emiss: Кировская область
     name_datawrapper: Кировская область
     name_datawrapper_square: Кировская область
+    name_datawrapper_short: КИР
     name_tableau: Kirov
     alternative_names: []
     okato: '33000000'
@@ -1204,6 +1263,7 @@ dict:
     name_emiss: Нижегородская область
     name_datawrapper: Нижегородская область
     name_datawrapper_square: Нижегородская область
+    name_datawrapper_short: НИЖ
     name_tableau: Nizhny Novgorod
     alternative_names: []
     okato: '22000000'
@@ -1224,6 +1284,7 @@ dict:
     name_emiss: Оренбургская область
     name_datawrapper: Оренбургская область
     name_datawrapper_square: Оренбургская область
+    name_datawrapper_short: ОРЕН
     name_tableau: Orenburg
     alternative_names: []
     okato: '53000000'
@@ -1244,6 +1305,7 @@ dict:
     name_emiss: Пензенская область
     name_datawrapper: Пензенская область
     name_datawrapper_square: Пензенская область
+    name_datawrapper_short: ПЕН
     name_tableau: Penza
     alternative_names: []
     okato: '56000000'
@@ -1264,6 +1326,7 @@ dict:
     name_emiss: Самарская область
     name_datawrapper: Самарская область
     name_datawrapper_square: Самарская область
+    name_datawrapper_short: САМ
     name_tableau: Samara
     alternative_names: []
     okato: '36000000'
@@ -1284,6 +1347,7 @@ dict:
     name_emiss: Саратовская область
     name_datawrapper: Саратовская область
     name_datawrapper_square: Саратовская область
+    name_datawrapper_short: САР
     name_tableau: Saratov
     alternative_names: []
     okato: '63000000'
@@ -1304,6 +1368,7 @@ dict:
     name_emiss: Ульяновская область
     name_datawrapper: Ульяновская область
     name_datawrapper_square: Ульяновская область
+    name_datawrapper_short: УЛЬ
     name_tableau: Ulyanovsk
     alternative_names: []
     okato: '73000000'
@@ -1324,6 +1389,7 @@ dict:
     name_emiss: Уральский федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -1344,6 +1410,7 @@ dict:
     name_emiss: Курганская область
     name_datawrapper: Курганская область
     name_datawrapper_square: Курганская область
+    name_datawrapper_short: КУРГ
     name_tableau: Kurgan
     alternative_names: []
     okato: '37000000'
@@ -1364,6 +1431,7 @@ dict:
     name_emiss: Свердловская область
     name_datawrapper: Свердловская область
     name_datawrapper_square: Свердловская область
+    name_datawrapper_short: СВЕР
     name_tableau: Sverdlovsk
     alternative_names: []
     okato: '65000000'
@@ -1384,6 +1452,7 @@ dict:
     name_emiss: Тюменская область
     name_datawrapper: Тюменская область
     name_datawrapper_square: Тюменская область
+    name_datawrapper_short: ТЮМ
     name_tableau: Tyumen
     alternative_names: []
     okato: '71000000'
@@ -1404,6 +1473,7 @@ dict:
     name_emiss: Ханты-Мансийский автономный округ - Югра (Тюменская область)
     name_datawrapper: Ханты-Мансийский автономный округ — Югра
     name_datawrapper_square: Ханты-Мансийский АО — Югра
+    name_datawrapper_short: ХАН
     name_tableau: Khanty-Mansiyskiy Avtonomnyy Okrug
     alternative_names:
     - Ханты-Мансийский автономный округ – Югра
@@ -1429,6 +1499,7 @@ dict:
     name_emiss: Ямало-Ненецкий автономный округ (Тюменская область)
     name_datawrapper: Ямало-Ненецкий автономный округ
     name_datawrapper_square: Ямало-Ненецкий АО
+    name_datawrapper_short: ЯМАЛ
     name_tableau: Yamal-Nenets
     alternative_names: []
     okato: '71140000'
@@ -1449,6 +1520,7 @@ dict:
     name_emiss: Тюменская область без автономных округов
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: ТЮМ
     name_tableau: None
     alternative_names: []
     okato: '71200000'
@@ -1469,6 +1541,7 @@ dict:
     name_emiss: Челябинская область
     name_datawrapper: Челябинская область
     name_datawrapper_square: Челябинская область
+    name_datawrapper_short: ЧЕЛ
     name_tableau: Chelyabinsk
     alternative_names: []
     okato: '75000000'
@@ -1489,6 +1562,7 @@ dict:
     name_emiss: Сибирский федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -1509,6 +1583,7 @@ dict:
     name_emiss: Республика Алтай
     name_datawrapper: Республика Алтай
     name_datawrapper_square: Алтай
+    name_datawrapper_short: АЛТ
     name_tableau: Altay
     alternative_names: []
     okato: '84000000'
@@ -1529,6 +1604,7 @@ dict:
     name_emiss: Республика Тыва
     name_datawrapper: Республика Тыва
     name_datawrapper_square: Тыва
+    name_datawrapper_short: ТЫВА
     name_tableau: Tuva
     alternative_names: []
     okato: '93000000'
@@ -1549,6 +1625,7 @@ dict:
     name_emiss: Республика Хакасия
     name_datawrapper: Республика Хакасия
     name_datawrapper_square: Хакасия
+    name_datawrapper_short: ХАК
     name_tableau: Khakass
     alternative_names: []
     okato: '95000000'
@@ -1569,6 +1646,7 @@ dict:
     name_emiss: Алтайский край
     name_datawrapper: Алтайский край
     name_datawrapper_square: Алтайский край
+    name_datawrapper_short: АЛ. К.
     name_tableau: Altayskiy
     alternative_names: []
     okato: '01000000'
@@ -1589,6 +1667,7 @@ dict:
     name_emiss: Красноярский край
     name_datawrapper: Красноярский край
     name_datawrapper_square: Красноярский край
+    name_datawrapper_short: КРАС
     name_tableau: Krasnoyarsk
     alternative_names: []
     okato: '04000000'
@@ -1609,6 +1688,7 @@ dict:
     name_emiss: Иркутская область
     name_datawrapper: Иркутская область
     name_datawrapper_square: Иркутская область
+    name_datawrapper_short: ИРК
     name_tableau: Irkutsk
     alternative_names: []
     okato: '25000000'
@@ -1629,6 +1709,7 @@ dict:
     name_emiss: Кемеровская область - Кузбасс
     name_datawrapper: Кемеровская область
     name_datawrapper_square: Кемеровская область — Кузбасс
+    name_datawrapper_short: КЕМ
     name_tableau: Kemerovo
     alternative_names:
     - Кемеровская область - Кузбасс
@@ -1650,6 +1731,7 @@ dict:
     name_emiss: Новосибирская область
     name_datawrapper: Новосибирская область
     name_datawrapper_square: Новосибирская область
+    name_datawrapper_short: НОВО
     name_tableau: Novosibirsk
     alternative_names: []
     okato: '50000000'
@@ -1670,6 +1752,7 @@ dict:
     name_emiss: Омская область
     name_datawrapper: Омская область
     name_datawrapper_square: Омская область
+    name_datawrapper_short: ОМСК
     name_tableau: Omsk
     alternative_names: []
     okato: '52000000'
@@ -1690,6 +1773,7 @@ dict:
     name_emiss: Томская область
     name_datawrapper: Томская область
     name_datawrapper_square: Томская область
+    name_datawrapper_short: ТОМСК
     name_tableau: Tomsk
     alternative_names: []
     okato: '69000000'
@@ -1710,6 +1794,7 @@ dict:
     name_emiss: Дальневосточный федеральный округ
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: []
     okato: '00000000'
@@ -1730,6 +1815,7 @@ dict:
     name_emiss: Республика Бурятия
     name_datawrapper: Республика Бурятия
     name_datawrapper_square: Бурятия
+    name_datawrapper_short: БУР
     name_tableau: Buryatiya, Republic
     alternative_names: []
     okato: '81000000'
@@ -1750,6 +1836,7 @@ dict:
     name_emiss: Республика Саха (Якутия)
     name_datawrapper: Республика Саха (Якутия)
     name_datawrapper_square: Саха — Якутия
+    name_datawrapper_short: САХА
     name_tableau: Sakha Republic
     alternative_names: []
     okato: '98000000'
@@ -1770,6 +1857,7 @@ dict:
     name_emiss: Забайкальский край
     name_datawrapper: Забайкальский край
     name_datawrapper_square: Забайкальский край
+    name_datawrapper_short: ЗАБ
     name_tableau: Zabaikalski Kray
     alternative_names: []
     okato: '76000000'
@@ -1790,6 +1878,7 @@ dict:
     name_emiss: Камчатский край
     name_datawrapper: Камчатский край
     name_datawrapper_square: Камчатский край
+    name_datawrapper_short: КАМ
     name_tableau: Kamchatka
     alternative_names:
     - Камчатская область
@@ -1811,6 +1900,7 @@ dict:
     name_emiss: Приморский край
     name_datawrapper: Приморский край
     name_datawrapper_square: Приморский край
+    name_datawrapper_short: ПРИ
     name_tableau: Primorsky
     alternative_names: []
     okato: '05000000'
@@ -1831,6 +1921,7 @@ dict:
     name_emiss: Хабаровский край
     name_datawrapper: Хабаровский край
     name_datawrapper_square: Хабаровский край
+    name_datawrapper_short: ХАБ
     name_tableau: Khabarovsk
     alternative_names: []
     okato: '08000000'
@@ -1851,6 +1942,7 @@ dict:
     name_emiss: Амурская область
     name_datawrapper: Амурская область
     name_datawrapper_square: Амурская область
+    name_datawrapper_short: АМУР
     name_tableau: Amur
     alternative_names: []
     okato: '10000000'
@@ -1871,6 +1963,7 @@ dict:
     name_emiss: Магаданская область
     name_datawrapper: Магаданская область
     name_datawrapper_square: Магаданская область
+    name_datawrapper_short: МАГ
     name_tableau: Magadanskaya Oblast'
     alternative_names: []
     okato: '44000000'
@@ -1891,6 +1984,7 @@ dict:
     name_emiss: Сахалинская область
     name_datawrapper: Сахалинская область
     name_datawrapper_square: Сахалинская область
+    name_datawrapper_short: СХЛН
     name_tableau: Sakhalin
     alternative_names: []
     okato: '64000000'
@@ -1911,6 +2005,7 @@ dict:
     name_emiss: Еврейская автономная область
     name_datawrapper: Еврейская автономная область
     name_datawrapper_square: Еврейская АО
+    name_datawrapper_short: ЕВР
     name_tableau: Yevrey
     alternative_names: []
     okato: '99000000'
@@ -1931,6 +2026,7 @@ dict:
     name_emiss: Чукотский автономный округ
     name_datawrapper: Чукотский автономный округ
     name_datawrapper_square: Чукотский АО
+    name_datawrapper_short: ЧУК
     name_tableau: Chukotskiy Avtonomnyy Okrug
     alternative_names: []
     okato: '77000000'
@@ -1951,6 +2047,7 @@ dict:
     name_emiss: Иные территории, включая Байконур
     name_datawrapper: None
     name_datawrapper_square: None
+    name_datawrapper_short: None
     name_tableau: None
     alternative_names: [ ]
     okato: '55000000'

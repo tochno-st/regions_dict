@@ -16,6 +16,7 @@
 - **name_emiss**: названия из данных Росстата на сайте ЕМИСС
 - **name_datawrapper**: названия для карты в Datawrapper
 - **name_datawrapper_square**: названия для плиточной карты в Datawrapper
+- **name_datawrapper_short**: сокращенные названия для плиточной карты ([источник](https://gist.github.com/tukachev/c3262242a20b3050e0459b4e3afc3a51))
 - **name_tableau**: названия для Tableau Public
 - **alternative_names**: альтернативные написания
 - **okato**: код ОКАТО
