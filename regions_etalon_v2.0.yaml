@@ -59,8 +59,8 @@ dict:
     name_datawrapper_short: БЕЛ
     name_tableau: Belgorod
     alternative_names: []
-    okato: '31000000'
-    oktmo: '31000000'
+    okato: '14000000'
+    oktmo: '14000000'
     fns_code: '31'
     iso_code: RU-BEL
     level: регион
